@@ -1,5 +1,5 @@
 {
-  "name": "deployment-example-prisma-vercel",
+  "name": "prisma-vercel",
   "dependencies": {
     "@prisma/client": "4.5.0",
     "next": "13.0.2",
